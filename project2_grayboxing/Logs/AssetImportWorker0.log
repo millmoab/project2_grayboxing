@@ -1845,3 +1845,1779 @@ Received Import Request.
 Start importing Assets/Runemark Studio/Origami Pack/Prefabs/Rooster.prefab using Guid(96bace41c6a85b6479d537902bdcd0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82dcab3de00bdd0567d1b3a31b44f46') in 0.007069 seconds 
   Import took 0.009546 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 6509.701499 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/CerealBox.prefab
+  artifactKey: Guid(0b5404da58d77384eac105547be6a633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/CerealBox.prefab using Guid(0b5404da58d77384eac105547be6a633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3c6423f365347bb7ae9c9bb369f05a3') in 0.041660 seconds 
+  Import took 0.057205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Cheese.prefab
+  artifactKey: Guid(01b73c6adbc49e547a4050d07ce31bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Cheese.prefab using Guid(01b73c6adbc49e547a4050d07ce31bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42ae7fccccd5680238e6fa5923f96c6') in 0.395690 seconds 
+  Import took 0.398086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Dried Yeast.prefab
+  artifactKey: Guid(fe6aaa943b039ff41b1e7d6409a29c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Dried Yeast.prefab using Guid(fe6aaa943b039ff41b1e7d6409a29c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87218073c6e8cb4aa7b4f2651068180c') in 0.007669 seconds 
+  Import took 0.010088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/egg.prefab
+  artifactKey: Guid(cd34e36aeaf1bad4095970c60043ab39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/egg.prefab using Guid(cd34e36aeaf1bad4095970c60043ab39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45bc89df74b9deece0d2d1f28f07d34f') in 0.153231 seconds 
+  Import took 0.155903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Cherries.prefab
+  artifactKey: Guid(157c152b742b53d47a699c534a055cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Cherries.prefab using Guid(157c152b742b53d47a699c534a055cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eaf039a58f29a9e6c97bdb2e245a0c6') in 0.013943 seconds 
+  Import took 0.016255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/EnergyDrink.prefab
+  artifactKey: Guid(5dde715321dce0e418693105bae038f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/EnergyDrink.prefab using Guid(5dde715321dce0e418693105bae038f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936a8fcc01a39d340e8674fd876a71f6') in 0.006730 seconds 
+  Import took 0.008993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/ChilliPowder.prefab
+  artifactKey: Guid(0a192fa34d09c63438d3c0fd81ddab90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/ChilliPowder.prefab using Guid(0a192fa34d09c63438d3c0fd81ddab90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5990bac3cacb91708b1215b604e249fb') in 0.006222 seconds 
+  Import took 0.008486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/DriedGarlicPowder.prefab
+  artifactKey: Guid(d29d283951cbb694ba0a4e7da9b5ec98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/DriedGarlicPowder.prefab using Guid(d29d283951cbb694ba0a4e7da9b5ec98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b94e6c38fd76ff1a8e40882688a850') in 0.009037 seconds 
+  Import took 0.011297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Chips.prefab
+  artifactKey: Guid(ccebba70701c0f245bf8f19075efd2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Chips.prefab using Guid(ccebba70701c0f245bf8f19075efd2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d46dc3344b0a0e92948006f043af31b') in 0.015968 seconds 
+  Import took 0.018257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/CocoaPowder.prefab
+  artifactKey: Guid(3c12f8b956d1b514182a249e12f61de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/CocoaPowder.prefab using Guid(3c12f8b956d1b514182a249e12f61de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0b4f3a8966e8649cf40418e2c389b70') in 0.006530 seconds 
+  Import took 0.008786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Coffee Beans.prefab
+  artifactKey: Guid(a3c99d807c3f721468e9d4e57edc49db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Coffee Beans.prefab using Guid(a3c99d807c3f721468e9d4e57edc49db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38527e55adbdc0220cddf0cbb7fded4d') in 0.008581 seconds 
+  Import took 0.011109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.140280 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Flour.prefab
+  artifactKey: Guid(0412da73630dc1a4fa11e9954759da55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Flour.prefab using Guid(0412da73630dc1a4fa11e9954759da55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ee8611719c6862fce91e3f37e250cd') in 0.009358 seconds 
+  Import took 0.012670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.158930 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Capsicum.prefab
+  artifactKey: Guid(8f069a4ce18677f4db8b5f022cb729e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Capsicum.prefab using Guid(8f069a4ce18677f4db8b5f022cb729e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dbde3e7c991eeff041c5368a9729d90') in 0.012413 seconds 
+  Import took 0.016676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Carrots.prefab
+  artifactKey: Guid(d84175fc0fe8e2b4497a019ac65c2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Carrots.prefab using Guid(d84175fc0fe8e2b4497a019ac65c2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74f7f5da3c351091c8f0d2e25ba7874') in 0.011211 seconds 
+  Import took 0.013966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032111 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/BrownSugar.prefab
+  artifactKey: Guid(b96592c3961418242a8f7c83a2e73180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/BrownSugar.prefab using Guid(b96592c3961418242a8f7c83a2e73180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df8cbf764ad2ee1c61f0e4d435acc3bc') in 0.336820 seconds 
+  Import took 0.339873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Banana.prefab
+  artifactKey: Guid(4796225296cb20b4995d92a186fe1010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Banana.prefab using Guid(4796225296cb20b4995d92a186fe1010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85479ad1a96b04215bfb9163f6fec9a4') in 0.007841 seconds 
+  Import took 0.010291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/BeerBottle.prefab
+  artifactKey: Guid(293ec170ec9912240b5765c4cf87f845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/BeerBottle.prefab using Guid(293ec170ec9912240b5765c4cf87f845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5192d48e1a80ebc6a9e6d6e9d3c0aa5c') in 0.009388 seconds 
+  Import took 0.011897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Almonds.prefab
+  artifactKey: Guid(de210fd90ad6dc646b16695a73ecb68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Almonds.prefab using Guid(de210fd90ad6dc646b16695a73ecb68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e4a5c7d4551b461d1273ddc71228f1b') in 0.013719 seconds 
+  Import took 0.016540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/BlackPepper.prefab
+  artifactKey: Guid(ef8149f66ca28af4a871b92b646eb080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/BlackPepper.prefab using Guid(ef8149f66ca28af4a871b92b646eb080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e23c0279326545bef1915c722e6ac6') in 0.007816 seconds 
+  Import took 0.010959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/BlueBerries.prefab
+  artifactKey: Guid(c7c237ea5aba3e3498cd1e34a39b3a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/BlueBerries.prefab using Guid(c7c237ea5aba3e3498cd1e34a39b3a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16750dec455348df64d3d1fc8b90bf8d') in 0.009477 seconds 
+  Import took 0.012307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Butter.prefab
+  artifactKey: Guid(4607e9ad1ab980d45bccc957fd1d2f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Butter.prefab using Guid(4607e9ad1ab980d45bccc957fd1d2f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0383a01949a4ee77c3b80f5f9d8ee6da') in 0.019161 seconds 
+  Import took 0.021628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.032505 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Garlic.prefab
+  artifactKey: Guid(64ba0db9f2d9c9d46ad33dc64ac3812f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Garlic.prefab using Guid(64ba0db9f2d9c9d46ad33dc64ac3812f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40b8be48567eaf41a82e50446cdce809') in 0.010120 seconds 
+  Import took 0.013197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/GelatinPowder.prefab
+  artifactKey: Guid(573733f748f0cd94784268b7c7679da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/GelatinPowder.prefab using Guid(573733f748f0cd94784268b7c7679da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dae490844bc8b8c95041955e881c1da') in 0.007979 seconds 
+  Import took 0.010526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/GarlicCloves.prefab
+  artifactKey: Guid(b610904c6c445174ca7fa1f39e38a6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/GarlicCloves.prefab using Guid(b610904c6c445174ca7fa1f39e38a6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fe34c7f17d13e9cf027ccafe3fbf3af') in 0.008654 seconds 
+  Import took 0.011311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/HeavyCream_41 Tris .prefab
+  artifactKey: Guid(b07c0866c0407c04590bf073e74240a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/HeavyCream_41 Tris .prefab using Guid(b07c0866c0407c04590bf073e74240a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b9098d31864233db92f6a2f1e68166') in 0.013049 seconds 
+  Import took 0.015821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.210571 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/JuicePack.prefab
+  artifactKey: Guid(4e3d4cb66ba4baa4ba96760c052f6311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/JuicePack.prefab using Guid(4e3d4cb66ba4baa4ba96760c052f6311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64a3d675c2d1403cddf5d3eac50b2e95') in 0.011481 seconds 
+  Import took 0.014523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Lemons.prefab
+  artifactKey: Guid(36b4ce1b2885e114bafc397bc5e33db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Lemons.prefab using Guid(36b4ce1b2885e114bafc397bc5e33db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8a3c7a1fc313c2e2d40cd15da988a3') in 0.007456 seconds 
+  Import took 0.010081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.178674 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Meat.prefab
+  artifactKey: Guid(186bb226158075c44bd820fdc0afb740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Meat.prefab using Guid(186bb226158075c44bd820fdc0afb740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cd22ff9ee0d5157deedee0ef17a37cc') in 0.009480 seconds 
+  Import took 0.012655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Mushrooms.prefab
+  artifactKey: Guid(73f8069633790904f97586ad4fac56a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Mushrooms.prefab using Guid(73f8069633790904f97586ad4fac56a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fe759822120448c16e699f215806890') in 0.011918 seconds 
+  Import took 0.014571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/MincedBeef.prefab
+  artifactKey: Guid(1d9df283f9aaa1f46affda151512363b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/MincedBeef.prefab using Guid(1d9df283f9aaa1f46affda151512363b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ca80c780134ac1c41620f142b6eaadd') in 0.008914 seconds 
+  Import took 0.011370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160910 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/OliveOil_NoVariants (761 tris).prefab
+  artifactKey: Guid(cbd05acb56e7f6246ad7184ffb112eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/OliveOil_NoVariants (761 tris).prefab using Guid(cbd05acb56e7f6246ad7184ffb112eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90441ead5980ffc110eb3f155bbc5e7') in 0.317667 seconds 
+  Import took 0.320920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Onion.prefab
+  artifactKey: Guid(67791c4ce16c99442ac667f6e8c08792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Onion.prefab using Guid(67791c4ce16c99442ac667f6e8c08792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6ba7feb6a27f5e0d8b6979126e97c8') in 0.010249 seconds 
+  Import took 0.012747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/OreganoPowder.prefab
+  artifactKey: Guid(12a8baff72b45b14a90997f41d99d70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/OreganoPowder.prefab using Guid(12a8baff72b45b14a90997f41d99d70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db07af063981183b6e3dbbb15990d72') in 0.007843 seconds 
+  Import took 0.010449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Peanuts.prefab
+  artifactKey: Guid(43b9e18aca00f72499238be2cbf94caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Peanuts.prefab using Guid(43b9e18aca00f72499238be2cbf94caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9d390e758ee4cc3201c39532b1623e9') in 0.011489 seconds 
+  Import took 0.014175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.194205 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Potato.prefab
+  artifactKey: Guid(14a510790c4486a4e9105dca33b4c366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Potato.prefab using Guid(14a510790c4486a4e9105dca33b4c366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b9dc772571709551791a0a9337ffa91') in 0.013312 seconds 
+  Import took 0.017259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.336915 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Skinned_Chicken.prefab
+  artifactKey: Guid(86404d6d44e2f834cbc72d8014f193cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Skinned_Chicken.prefab using Guid(86404d6d44e2f834cbc72d8014f193cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89e0f6eb74caa57f9d89faf75cd48a84') in 0.122176 seconds 
+  Import took 0.125326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/SodaCan.prefab
+  artifactKey: Guid(46acc2e8b243bdc47bb1184ba8b1091b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/SodaCan.prefab using Guid(46acc2e8b243bdc47bb1184ba8b1091b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aa32f8d6b7d71e6ef9fa9f0a8290052') in 0.010635 seconds 
+  Import took 0.013141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Skinned_Chicken.prefab
+  artifactKey: Guid(86404d6d44e2f834cbc72d8014f193cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Skinned_Chicken.prefab using Guid(86404d6d44e2f834cbc72d8014f193cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89e0f6eb74caa57f9d89faf75cd48a84') in 0.007583 seconds 
+  Import took 0.010124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/SodaCan.prefab
+  artifactKey: Guid(46acc2e8b243bdc47bb1184ba8b1091b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/SodaCan.prefab using Guid(46acc2e8b243bdc47bb1184ba8b1091b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aa32f8d6b7d71e6ef9fa9f0a8290052') in 0.008203 seconds 
+  Import took 0.011046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.836031 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Tomato.prefab
+  artifactKey: Guid(631b072a88243ca4c99acaa4414cd28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Tomato.prefab using Guid(631b072a88243ca4c99acaa4414cd28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba5c64158d0a06fbef028fc789dbcf12') in 0.011892 seconds 
+  Import took 0.014965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/TomatoPuree_41 Tris.prefab
+  artifactKey: Guid(31e2b91e762f6f74984b7dfa41880b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/TomatoPuree_41 Tris.prefab using Guid(31e2b91e762f6f74984b7dfa41880b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78fb2959fd62ba455e95c4fe62acd365') in 0.008714 seconds 
+  Import took 0.011554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/TomatoSoup.prefab
+  artifactKey: Guid(30b4fdb878d30ed4785dd14c0ec69b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/TomatoSoup.prefab using Guid(30b4fdb878d30ed4785dd14c0ec69b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4208d4ec8294e81dd283e0e70e3f260c') in 0.011752 seconds 
+  Import took 0.014531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.479239 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/VanillaExtract_NoVariants (761 tris).prefab
+  artifactKey: Guid(6a7f9fef53fe12d4fb1f9cc72c88b568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/VanillaExtract_NoVariants (761 tris).prefab using Guid(6a7f9fef53fe12d4fb1f9cc72c88b568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '853b9b53978bbfa782ca2c756c341eca') in 0.009092 seconds 
+  Import took 0.012208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/Yogurt_41 Tris.prefab
+  artifactKey: Guid(62aff30fa9c9d01419de0b76034f723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/Yogurt_41 Tris.prefab using Guid(62aff30fa9c9d01419de0b76034f723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3714df5e111eacff9c9d85a6ca9160fc') in 0.007741 seconds 
+  Import took 0.010230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/WhiteCreamCheese_41 Tris.prefab
+  artifactKey: Guid(4f2881ce5dce9be4bbdcaf2ea1faa638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/WhiteCreamCheese_41 Tris.prefab using Guid(4f2881ce5dce9be4bbdcaf2ea1faa638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72d241780f336bb05d3b476fc5f356a') in 0.008332 seconds 
+  Import took 0.010930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/VanillaExtract_NoVariants (761 tris).prefab
+  artifactKey: Guid(6a7f9fef53fe12d4fb1f9cc72c88b568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/VanillaExtract_NoVariants (761 tris).prefab using Guid(6a7f9fef53fe12d4fb1f9cc72c88b568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '853b9b53978bbfa782ca2c756c341eca') in 0.007734 seconds 
+  Import took 0.010504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Food Pack Mixed/Prefabs/WhiteCreamCheese_41 Tris.prefab
+  artifactKey: Guid(4f2881ce5dce9be4bbdcaf2ea1faa638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Prefabs/WhiteCreamCheese_41 Tris.prefab using Guid(4f2881ce5dce9be4bbdcaf2ea1faa638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72d241780f336bb05d3b476fc5f356a') in 0.007800 seconds 
+  Import took 0.010448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 884.472564 seconds.
+  path: Assets/Runemark Studio/Origami Pack/Materials/Ground.mat
+  artifactKey: Guid(d8c68e9822ac2fa47ad88fb55d73ca20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Origami Pack/Materials/Ground.mat using Guid(d8c68e9822ac2fa47ad88fb55d73ca20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b83b469c316f7b435087eb182be6f0e') in 0.125640 seconds 
+  Import took 0.129710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_4.mat
+  artifactKey: Guid(92bc43b565a9c48eba33869ba3da9d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_4.mat using Guid(92bc43b565a9c48eba33869ba3da9d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56f2e39a11844280ced564e666eec14') in 0.012401 seconds 
+  Import took 0.015120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate.mat
+  artifactKey: Guid(d71bdfc9f514840ed8518dacb7ba7db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate.mat using Guid(d71bdfc9f514840ed8518dacb7ba7db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7afe6a668f9a29a45a8631a29d94c600') in 0.011210 seconds 
+  Import took 0.013899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Food Pack Mixed/Meshes/OliveOil.fbx
+  artifactKey: Guid(7efe9a6b8f0200349bf250d45ac41825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/OliveOil.fbx using Guid(7efe9a6b8f0200349bf250d45ac41825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531409df864e3f6f853b03cf8f9c479a') in 0.048032 seconds 
+  Import took 0.050694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Hamburger/Material_Burger_Bread.mat
+  artifactKey: Guid(8cee8119f5b17413aa778dcdbdf41203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Hamburger/Material_Burger_Bread.mat using Guid(8cee8119f5b17413aa778dcdbdf41203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cffffaff1c92ee5da2e84833da07269') in 0.009983 seconds 
+  Import took 0.012846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_Chocolade_Turquoise.mat
+  artifactKey: Guid(5707d801a39b443a681c249a37d8be3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_Chocolade_Turquoise.mat using Guid(5707d801a39b443a681c249a37d8be3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e93f11f0e04d8f050352029b78d6ff1') in 0.009806 seconds 
+  Import took 0.012160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_1.mat
+  artifactKey: Guid(20a67c6279f5042ba8d8e830c01b23be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_1.mat using Guid(20a67c6279f5042ba8d8e830c01b23be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720f98de56c9027e3fc638875cda133b') in 0.009729 seconds 
+  Import took 0.012064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Food Pack Mixed/Materials/HeavyCream.mat
+  artifactKey: Guid(d8d179cad39d86f43b1e5a66a8b06f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/HeavyCream.mat using Guid(d8d179cad39d86f43b1e5a66a8b06f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2abea4a264174f15c8a55ad44cb93d66') in 0.008011 seconds 
+  Import took 0.010278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_Chocolade_Yellow.mat
+  artifactKey: Guid(7bec0cc9d2b554cae9d6120d0db4b5fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_Chocolade_Yellow.mat using Guid(7bec0cc9d2b554cae9d6120d0db4b5fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfa39276f8df624434b8fbdf8c5d2351') in 0.010535 seconds 
+  Import took 0.012983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Hamburger/Material_Burger_2.mat
+  artifactKey: Guid(a22ffbd1db72049cf863cb0746c6d8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Hamburger/Material_Burger_2.mat using Guid(a22ffbd1db72049cf863cb0746c6d8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14aa17316c13f8c8d44967f1f069ac11') in 0.012262 seconds 
+  Import took 0.014859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Food Pack Mixed/Materials/JuicePack_Cap.mat
+  artifactKey: Guid(f8f8e842c4aa2f441860ca353c0c7706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/JuicePack_Cap.mat using Guid(f8f8e842c4aa2f441860ca353c0c7706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ff2b476ce679d363500f13e1cc034f') in 0.007870 seconds 
+  Import took 0.010444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Food Pack Mixed/Meshes/plate.fbx
+  artifactKey: Guid(21117a1e270ae3843a41032b80b53b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/plate.fbx using Guid(21117a1e270ae3843a41032b80b53b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da77e05953d99e36736571e1360986e') in 0.021034 seconds 
+  Import took 0.023484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_Chocolade_Green.mat
+  artifactKey: Guid(5b259617d2eea45d0ab16b56f5199e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_Chocolade_Green.mat using Guid(5b259617d2eea45d0ab16b56f5199e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a32fe4ea7c63c49557085bf505cf9e14') in 0.011858 seconds 
+  Import took 0.014252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Food Pack Mixed/Materials/JuicePack.mat
+  artifactKey: Guid(205a4c7f26a1c1c4f966ee0301d1849f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/JuicePack.mat using Guid(205a4c7f26a1c1c4f966ee0301d1849f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c17b82c5143cbb9ce41db406c49abab') in 0.007227 seconds 
+  Import took 0.009655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_1.mat
+  artifactKey: Guid(a7b8af0c41c9047be9c675b49125f0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_1.mat using Guid(a7b8af0c41c9047be9c675b49125f0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d65b96745e5151e2771237459d08d46') in 0.007512 seconds 
+  Import took 0.009785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_Chocolade_Purble.mat
+  artifactKey: Guid(8bf75cc32b5ad4352a0e3238167d5dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_Chocolade_Purble.mat using Guid(8bf75cc32b5ad4352a0e3238167d5dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca2e2da2d226939552f350c0fe2a4f5') in 0.008663 seconds 
+  Import took 0.010884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Food Pack Mixed/Materials/Lemon.mat
+  artifactKey: Guid(47acb3f644e9ea547a82dbe73a17fe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Lemon.mat using Guid(47acb3f644e9ea547a82dbe73a17fe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23657106a4f6b64a1894f787482dec1a') in 0.006685 seconds 
+  Import took 0.009015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_Chocolade.mat
+  artifactKey: Guid(4d77eed11d8c24e52a5eab0f50428acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_Chocolade.mat using Guid(4d77eed11d8c24e52a5eab0f50428acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78c372c3bc04b8de8ebb1fb479ef9989') in 0.009842 seconds 
+  Import took 0.012370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_2.mat
+  artifactKey: Guid(61e5b4008a35d42238f86ab9d8c3536c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_2.mat using Guid(61e5b4008a35d42238f86ab9d8c3536c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4f7026bdd771ab212a7810ac498e76') in 0.010269 seconds 
+  Import took 0.012925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Hamburger/Material_Burger_3.mat
+  artifactKey: Guid(f107ae812f09c438dafd7a0f51ab1692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Hamburger/Material_Burger_3.mat using Guid(f107ae812f09c438dafd7a0f51ab1692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fd2225f7f4104b4021be8f15c09bdc0') in 0.007681 seconds 
+  Import took 0.010261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_Chocolade_Red.mat
+  artifactKey: Guid(b859b1e406b06427b94d43cf690a795f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Cake/Material_Cake_Chocolade_Red.mat using Guid(b859b1e406b06427b94d43cf690a795f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cca81469b9ae364a3d8bce792e25575a') in 0.008670 seconds 
+  Import took 0.011078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.987158 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Dotted.mat
+  artifactKey: Guid(25e7b4ee0537242cc864f4e075856117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Dotted.mat using Guid(25e7b4ee0537242cc864f4e075856117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec6287628718ed5b4bc4c6afe7478c83') in 0.012056 seconds 
+  Import took 0.015303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Orange.mat
+  artifactKey: Guid(d6c4940ff67a04fd98babb87199acc58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Orange.mat using Guid(d6c4940ff67a04fd98babb87199acc58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '684392ab39fa0209ac6270b1d31c0cc7') in 0.010006 seconds 
+  Import took 0.012629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Turquoise.mat
+  artifactKey: Guid(3ef75d19c172246298584257c759accc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Turquoise.mat using Guid(3ef75d19c172246298584257c759accc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c23c93dacfd0219bc3b0b2d6a6e103') in 0.009840 seconds 
+  Import took 0.012958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Green.mat
+  artifactKey: Guid(808336eb28a54476fbf88a45f300f7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Green.mat using Guid(808336eb28a54476fbf88a45f300f7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b93d396400a67f8ad92657d45503005') in 0.012472 seconds 
+  Import took 0.015183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Purble.mat
+  artifactKey: Guid(b4450b604f38a456994a82bd7d5854d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Purble.mat using Guid(b4450b604f38a456994a82bd7d5854d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '990800b743c29b7e0de6d113dd1df442') in 0.009889 seconds 
+  Import took 0.012564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Yellow.mat
+  artifactKey: Guid(360411239a18a4c4cba435039fc60cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Yellow.mat using Guid(360411239a18a4c4cba435039fc60cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2334266a02fe5379f7cccab5b0c9f304') in 0.008993 seconds 
+  Import took 0.011563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Rose.mat
+  artifactKey: Guid(6752e7a10860048b4ae08f1c92f167bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Donut/Material_Donut_Chocolate_Rose.mat using Guid(6752e7a10860048b4ae08f1c92f167bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4d383f115b31bbdf5f01637b686a0a') in 0.009773 seconds 
+  Import took 0.012298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.299634 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Drink/Material_Drink_1.mat
+  artifactKey: Guid(29c819ab631ab4aaaa33448cf2456963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Drink/Material_Drink_1.mat using Guid(29c819ab631ab4aaaa33448cf2456963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd96750f7f928a677a6f7e17ebb34efc8') in 0.009587 seconds 
+  Import took 0.012443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Egg and sausage with frying pan/Material_EggSausageFryingPan_5.mat
+  artifactKey: Guid(4922c7fe51af94858b8f0957b272f6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Egg and sausage with frying pan/Material_EggSausageFryingPan_5.mat using Guid(4922c7fe51af94858b8f0957b272f6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f40bb58b1f015526f7e42082ac077805') in 0.009618 seconds 
+  Import took 0.012249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Egg and sausage with frying pan/Material_EggSausageFryingPan.mat
+  artifactKey: Guid(c22986b070f0644ae8dbb984799109f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Egg and sausage with frying pan/Material_EggSausageFryingPan.mat using Guid(c22986b070f0644ae8dbb984799109f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '438b9dc7601a1ea5c3a9de236b9795f9') in 0.009438 seconds 
+  Import took 0.011881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Egg and sausage with frying pan/Material_EggSausageFryingPan_SausageDetails.mat
+  artifactKey: Guid(e6087f9f108f848fa814f5b12f5ae8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Egg and sausage with frying pan/Material_EggSausageFryingPan_SausageDetails.mat using Guid(e6087f9f108f848fa814f5b12f5ae8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a231ecb339028fa87d8c76f43a4d17') in 0.009392 seconds 
+  Import took 0.011845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Egg and sausage with frying pan/Material_EggSausageFryingPan_EggYolk.mat
+  artifactKey: Guid(444bb88eae9904dfe93c17baef36ba15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Egg and sausage with frying pan/Material_EggSausageFryingPan_EggYolk.mat using Guid(444bb88eae9904dfe93c17baef36ba15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feb67bb9f62f98024ba1df9fe10603c9') in 0.013337 seconds 
+  Import took 0.015883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Drink/Material_Drink_1.mat
+  artifactKey: Guid(29c819ab631ab4aaaa33448cf2456963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Drink/Material_Drink_1.mat using Guid(29c819ab631ab4aaaa33448cf2456963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd96750f7f928a677a6f7e17ebb34efc8') in 0.010533 seconds 
+  Import took 0.013005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Drink/Material_Drink_Turquoise.mat
+  artifactKey: Guid(4f78c716bf84844e4b21813d4a504d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Drink/Material_Drink_Turquoise.mat using Guid(4f78c716bf84844e4b21813d4a504d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033a97a0fae44f4c788466dacd13e3ae') in 0.009655 seconds 
+  Import took 0.012074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Drink/Material_Drink_Yellow.mat
+  artifactKey: Guid(c5a58d963066a4ebcb5c08b893acc31b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Drink/Material_Drink_Yellow.mat using Guid(c5a58d963066a4ebcb5c08b893acc31b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29303583dea736ade3497d709086e08') in 0.009249 seconds 
+  Import took 0.011580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.679186 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Egg and sausage with frying pan/Material_EggSausageFryingPan_WhiteEgg.mat
+  artifactKey: Guid(7c644a9f69c274ed4a9f9a9f52461562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Egg and sausage with frying pan/Material_EggSausageFryingPan_WhiteEgg.mat using Guid(7c644a9f69c274ed4a9f9a9f52461562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ec144b25c77ad34311a926f029c2931') in 0.008693 seconds 
+  Import took 0.012041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Front_Orange.mat
+  artifactKey: Guid(de5c2e4a5998048bcb05aaa417c1e02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Front_Orange.mat using Guid(de5c2e4a5998048bcb05aaa417c1e02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb88a68090513de76db005c6b670ed53') in 0.009153 seconds 
+  Import took 0.011698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Egg and sausage with frying pan/Material_EggSausageFryingPan_WhiteEgg.mat
+  artifactKey: Guid(7c644a9f69c274ed4a9f9a9f52461562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Egg and sausage with frying pan/Material_EggSausageFryingPan_WhiteEgg.mat using Guid(7c644a9f69c274ed4a9f9a9f52461562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ec144b25c77ad34311a926f029c2931') in 0.008313 seconds 
+  Import took 0.010899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Front_Yellow.mat
+  artifactKey: Guid(c3ae7065de66949a2ba824473073729c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Front_Yellow.mat using Guid(c3ae7065de66949a2ba824473073729c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f32864e321d7670c35ec40dad379f1') in 0.010008 seconds 
+  Import took 0.012562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries.mat
+  artifactKey: Guid(b4cc938ac882540adbb987989ae353a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries.mat using Guid(b4cc938ac882540adbb987989ae353a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94875474ddde8c10065d2e1f98306dc1') in 0.009444 seconds 
+  Import took 0.012083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Front_Red.mat
+  artifactKey: Guid(8d93f6d10cd37428aa735356d6402d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Front_Red.mat using Guid(8d93f6d10cd37428aa735356d6402d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ce5ba6d4b2ec2100e4583fd43c53e5') in 0.009987 seconds 
+  Import took 0.012773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Front_Green.mat
+  artifactKey: Guid(d9a70e1511e69450baccbb8f040f355d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Front_Green.mat using Guid(d9a70e1511e69450baccbb8f040f355d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4311b4c728edd810bab4f865749ac84b') in 0.008662 seconds 
+  Import took 0.011242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Front_Turquoise.mat
+  artifactKey: Guid(4c57c38f39a874f128f05baeff439b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Front_Turquoise.mat using Guid(4c57c38f39a874f128f05baeff439b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33963855eb6c0ac44064f236281963d6') in 0.009263 seconds 
+  Import took 0.011699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.676290 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Green.mat
+  artifactKey: Guid(ee4569ecd23844a54b5bcd52d95b4d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Green.mat using Guid(ee4569ecd23844a54b5bcd52d95b4d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '923c36ce27362c8afa70e86c87488f9d') in 0.008386 seconds 
+  Import took 0.011545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Yellow.mat
+  artifactKey: Guid(b470276ef34e64aa49cf718cefbe5173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Yellow.mat using Guid(b470276ef34e64aa49cf718cefbe5173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba790479dee924ad435ca42d5cf56bc7') in 0.007924 seconds 
+  Import took 0.010364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Orange.mat
+  artifactKey: Guid(182ef1f56fd6748479c5bcd0e564c994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Orange.mat using Guid(182ef1f56fd6748479c5bcd0e564c994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e717972b46a61f6d83acb734fa6a6714') in 0.008627 seconds 
+  Import took 0.011163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Hot Dog/Material_HotDog_Bred.mat
+  artifactKey: Guid(0994feb43b3714803bfe5e256b6c05ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Hot Dog/Material_HotDog_Bred.mat using Guid(0994feb43b3714803bfe5e256b6c05ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8670a2a816886ff215a60184651990d') in 0.009849 seconds 
+  Import took 0.012335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Orange.mat
+  artifactKey: Guid(182ef1f56fd6748479c5bcd0e564c994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Orange.mat using Guid(182ef1f56fd6748479c5bcd0e564c994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e717972b46a61f6d83acb734fa6a6714') in 0.007609 seconds 
+  Import took 0.010183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Green.mat
+  artifactKey: Guid(ee4569ecd23844a54b5bcd52d95b4d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Green.mat using Guid(ee4569ecd23844a54b5bcd52d95b4d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '923c36ce27362c8afa70e86c87488f9d') in 0.007558 seconds 
+  Import took 0.010397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Turquoise.mat
+  artifactKey: Guid(93361e91ef79144b39b6f2d9e8fa4a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Turquoise.mat using Guid(93361e91ef79144b39b6f2d9e8fa4a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c2294e0944a767d3645b50f6ac59f2') in 0.009108 seconds 
+  Import took 0.011937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Hot Dog/Material_HotDog_Sausage.mat
+  artifactKey: Guid(512da8da022724f5bb7eeadfc8b73d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Hot Dog/Material_HotDog_Sausage.mat using Guid(512da8da022724f5bb7eeadfc8b73d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1e838e71527043ad2546eb24cc249f') in 0.010299 seconds 
+  Import took 0.013048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Red.mat
+  artifactKey: Guid(5ceb3b64584294a11a82c11ff24aa97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/French Fries/Material_FrenchFries_Packaging_Rear_Red.mat using Guid(5ceb3b64584294a11a82c11ff24aa97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008940326015ca87681fea12f5eea37f') in 0.009429 seconds 
+  Import took 0.012539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020224 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Meat 1/Material_Meat1.mat
+  artifactKey: Guid(0305958483fa040adb5ae86621a9ef76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Meat 1/Material_Meat1.mat using Guid(0305958483fa040adb5ae86621a9ef76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed175540be196c178f65204f190e12bb') in 0.012453 seconds 
+  Import took 0.015275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Meat 2/Material_Meat2_Bones.mat
+  artifactKey: Guid(b7b44d65f5e854402b5dc97cae188474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Meat 2/Material_Meat2_Bones.mat using Guid(b7b44d65f5e854402b5dc97cae188474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '279b323ebf9f5b66528ae0f2f988c4b3') in 0.008911 seconds 
+  Import took 0.011272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Pizza/Material_Pizza_Cheese.mat
+  artifactKey: Guid(be0ce19d181474890af2f9579eb764db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Pizza/Material_Pizza_Cheese.mat using Guid(be0ce19d181474890af2f9579eb764db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '309bb3f3e44d40d9ab249f71e9a8c9b0') in 0.008658 seconds 
+  Import took 0.011083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Pizza/Material_Pizza_Ground.mat
+  artifactKey: Guid(e80d19bc332a249a6bf793283b43c4f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Pizza/Material_Pizza_Ground.mat using Guid(e80d19bc332a249a6bf793283b43c4f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7790dc80649907b157ecffc85f37d9c') in 0.008722 seconds 
+  Import took 0.011024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Meat 1/Material_Meat1_Bone.mat
+  artifactKey: Guid(c270ea41cfe63432395bb2e345c2a06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Meat 1/Material_Meat1_Bone.mat using Guid(c270ea41cfe63432395bb2e345c2a06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104aad22d1736c8419e79cf20545d1b2') in 0.007829 seconds 
+  Import took 0.010657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Meat 2/Material_Meat2_1.mat
+  artifactKey: Guid(6678aa9a0db6746f4b5297d2c74cf1a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Meat 2/Material_Meat2_1.mat using Guid(6678aa9a0db6746f4b5297d2c74cf1a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c5633d9a935675919fb70213f07c31') in 0.007782 seconds 
+  Import took 0.010237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Food Pack Mixed/Materials/MeltedButter.mat
+  artifactKey: Guid(b96bd20468074554da25115e47d6d0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/MeltedButter.mat using Guid(b96bd20468074554da25115e47d6d0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0385487d6960cffbab4cb274da92ebd') in 0.007527 seconds 
+  Import took 0.009751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Food Pack Mixed/Materials/MincedBeef.mat
+  artifactKey: Guid(1cda6d235c34bcd4f8304031f01d5542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/MincedBeef.mat using Guid(1cda6d235c34bcd4f8304031f01d5542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6fb9f1cb8a56a2ca1a707f56bc1811') in 0.007477 seconds 
+  Import took 0.009756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Pizza/Material_Pizza_TomatoStars.mat
+  artifactKey: Guid(729d28814a13140a69f4340b44e51048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Pizza/Material_Pizza_TomatoStars.mat using Guid(729d28814a13140a69f4340b44e51048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '231e5a1c46abd0e2cf60ee66b0532728') in 0.009038 seconds 
+  Import took 0.011554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Pizza/Material_Pizza_TopGround.mat
+  artifactKey: Guid(a9828656fa4f14972916987bc3d75f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Pizza/Material_Pizza_TopGround.mat using Guid(a9828656fa4f14972916987bc3d75f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95866f719fd45e48f760cc90012e01ad') in 0.008050 seconds 
+  Import took 0.010605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Pizza/Material_Pizza_Tomatos.mat
+  artifactKey: Guid(4e757e8232c0544bea8f354aa0a755a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Pizza/Material_Pizza_Tomatos.mat using Guid(4e757e8232c0544bea8f354aa0a755a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c414bb28ac7cc5f3d3e9f190376f42') in 0.008095 seconds 
+  Import took 0.010857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Food Pack Mixed/Meshes/BlueBerries.fbx
+  artifactKey: Guid(14f42e4fa9ed4ff4188f790ba6fe1468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/BlueBerries.fbx using Guid(14f42e4fa9ed4ff4188f790ba6fe1468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70fa6897ff9b772e1a47423e236245bc') in 0.043840 seconds 
+  Import took 0.046528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Cheese.fbx
+  artifactKey: Guid(ac178adc44d1a8342b828a2bb154a083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Cheese.fbx using Guid(ac178adc44d1a8342b828a2bb154a083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cbb7b28784532d106777e49a1358ab8') in 0.036845 seconds 
+  Import took 0.039418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Food Pack Mixed/Materials/Mushroom3.mat
+  artifactKey: Guid(66c3395d3bd64c14aba920072d2a70fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Mushroom3.mat using Guid(66c3395d3bd64c14aba920072d2a70fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19c88ffd9957cd8ab6344570d3e5470') in 0.007583 seconds 
+  Import took 0.009882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Food Pack Mixed/Meshes/CerealBox.fbx
+  artifactKey: Guid(a92fd95f7bd4407489bad6082f018ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/CerealBox.fbx using Guid(a92fd95f7bd4407489bad6082f018ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9313b30a31342cdff218a2470c7c5b53') in 0.037260 seconds 
+  Import took 0.039610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Food Pack Mixed/Meshes/BeerBottle.fbx
+  artifactKey: Guid(53340ba17618e5d4fa6794a544d253eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/BeerBottle.fbx using Guid(53340ba17618e5d4fa6794a544d253eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfdc443eba05fe21c6fee7417972efae') in 0.037309 seconds 
+  Import took 0.039772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Coffee Beans.fbx
+  artifactKey: Guid(06e1fe92faa23824d8c4bd5e82a62d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Coffee Beans.fbx using Guid(06e1fe92faa23824d8c4bd5e82a62d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57b62040dbe569236b324a7f8fbf070e') in 0.068462 seconds 
+  Import took 0.070791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Chips.fbx
+  artifactKey: Guid(81fb6a5c67691cd46a393190b476ed51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Chips.fbx using Guid(81fb6a5c67691cd46a393190b476ed51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e44e9ce49a708bbe4cba8bce5709c04c') in 0.046509 seconds 
+  Import took 0.048819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Pizza/Material_Pizza_Salad.mat
+  artifactKey: Guid(044816f52667f42269d4f2b78d3e91db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Pizza/Material_Pizza_Salad.mat using Guid(044816f52667f42269d4f2b78d3e91db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2856c9a5d47dc8445252930611e5cd85') in 0.012371 seconds 
+  Import took 0.014980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Butter.fbx
+  artifactKey: Guid(5b809b89bbc8ca042a08ae9838e40440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Butter.fbx using Guid(5b809b89bbc8ca042a08ae9838e40440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f56d6028a9177926fdcb6a9fe5dc19') in 0.040833 seconds 
+  Import took 0.043453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Banana.fbx
+  artifactKey: Guid(c8e00729a02fc2445874fdd6f59c37c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Banana.fbx using Guid(c8e00729a02fc2445874fdd6f59c37c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6a082f7ca09c63528fcd46078f79e2') in 0.036812 seconds 
+  Import took 0.039393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Food Pack Mixed/Materials/Mushroom1.mat
+  artifactKey: Guid(e255b8fe1ba67434fb820db547e70cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Mushroom1.mat using Guid(e255b8fe1ba67434fb820db547e70cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a3c5f1fdc1f155cc5e537bbe26387a') in 0.011210 seconds 
+  Import took 0.013803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Food Pack Mixed/Materials/Mushroom2.mat
+  artifactKey: Guid(e237440af6c074c4fb708a46d102e922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Mushroom2.mat using Guid(e237440af6c074c4fb708a46d102e922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b18a0fd93f607736a324e12ad7e34dc') in 0.007370 seconds 
+  Import took 0.009974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Meat 2/Material_Meat2_MeatEnds.mat
+  artifactKey: Guid(436e5330a5ecf4f5eb1a3446ef129de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Materials/Meat 2/Material_Meat2_MeatEnds.mat using Guid(436e5330a5ecf4f5eb1a3446ef129de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2356013d0084ccf78a5fa0acd519f2f7') in 0.007147 seconds 
+  Import took 0.009505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Cherries.fbx
+  artifactKey: Guid(254f2719e16485141aa3bd49dc2d0cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Cherries.fbx using Guid(254f2719e16485141aa3bd49dc2d0cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '773854d0648c9051255a52c3c5466b83') in 0.042051 seconds 
+  Import took 0.044369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Almonds.fbx
+  artifactKey: Guid(03e31ea610078dd4496bc68434f5c45b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Almonds.fbx using Guid(03e31ea610078dd4496bc68434f5c45b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aff556615aa8e9e1d7d63f2b89e80102') in 0.073592 seconds 
+  Import took 0.076531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.756579 seconds.
+  path: Assets/Food Pack Mixed/Meshes/EnergyDrink.fbx
+  artifactKey: Guid(6081269eb47af18418c00349c995d626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/EnergyDrink.fbx using Guid(6081269eb47af18418c00349c995d626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e2c70285dbd76e3f1cbcf3fe17f57b') in 0.037684 seconds 
+  Import took 0.041522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Skinned_Chicken.fbx
+  artifactKey: Guid(795242f075184cc48b2c6d9dda31a009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Skinned_Chicken.fbx using Guid(795242f075184cc48b2c6d9dda31a009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be0605fdb1f2ac2ee3488e3c43411865') in 0.042180 seconds 
+  Import took 0.044674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Food Pack Mixed/Meshes/SodaCan.fbx
+  artifactKey: Guid(5e6b2dd74fe53544f9e1b74530bdaa62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/SodaCan.fbx using Guid(5e6b2dd74fe53544f9e1b74530bdaa62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5dcd7aebddbb02ed0320e98e1dbe8a0') in 0.051269 seconds 
+  Import took 0.053730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Food Pack Mixed/Meshes/TomatoSoup.fbx
+  artifactKey: Guid(c4b4ba88602723141be382e278e9c816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/TomatoSoup.fbx using Guid(c4b4ba88602723141be382e278e9c816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc665eb2898ecfca4f285ab485f4cd0') in 0.038191 seconds 
+  Import took 0.040691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Potato.fbx
+  artifactKey: Guid(46db98df67a47854fa3429f37537d92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Potato.fbx using Guid(46db98df67a47854fa3429f37537d92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7a3488d1769260ec3cbbf7948504e5') in 0.044965 seconds 
+  Import took 0.047634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Puree.fbx
+  artifactKey: Guid(289877ed0543bca4a95b5d428f4ad04b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Puree.fbx using Guid(289877ed0543bca4a95b5d428f4ad04b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e136fe504e3d2ae8e9669aa8718c2558') in 0.014288 seconds 
+  Import took 0.017148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Tomato.fbx
+  artifactKey: Guid(02fece05d50850b4581df192f6bc3df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Tomato.fbx using Guid(02fece05d50850b4581df192f6bc3df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8da5cbb9ff85323689996f3635eeef') in 0.071218 seconds 
+  Import took 0.074090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007506 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Tomato.fbx
+  artifactKey: Guid(02fece05d50850b4581df192f6bc3df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Tomato.fbx using Guid(02fece05d50850b4581df192f6bc3df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8da5cbb9ff85323689996f3635eeef') in 0.069472 seconds 
+  Import took 0.072528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.281079 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Peanuts.fbx
+  artifactKey: Guid(0799666af6a17364298f9d10a74a76f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Peanuts.fbx using Guid(0799666af6a17364298f9d10a74a76f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b33018a1810cc782fc2c2103afc13b0') in 0.060352 seconds 
+  Import took 0.064303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Onion.fbx
+  artifactKey: Guid(2ea2577003f246d49939e8382c6a68fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Onion.fbx using Guid(2ea2577003f246d49939e8382c6a68fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3465527265dfc098097918a658cacde6') in 0.048920 seconds 
+  Import took 0.051301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Carrots.fbx
+  artifactKey: Guid(e6a64120721d9414eb57323cb227502e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Carrots.fbx using Guid(e6a64120721d9414eb57323cb227502e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1679d303d166541ec3d6568a9960aa07') in 0.096606 seconds 
+  Import took 0.098972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Milk.fbx
+  artifactKey: Guid(732060d1b15c97f4daf1ca806575cd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Milk.fbx using Guid(732060d1b15c97f4daf1ca806575cd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7defbae817ac9f02da35052415b5fec') in 0.058735 seconds 
+  Import took 0.061173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Mushrooms.fbx
+  artifactKey: Guid(2456fcea440f0884e87dede158493993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Mushrooms.fbx using Guid(2456fcea440f0884e87dede158493993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f83dcba6a596887a9a887de02f3be307') in 0.073725 seconds 
+  Import took 0.076159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Food Pack Mixed/Meshes/egg.fbx
+  artifactKey: Guid(084398d3f40187c479efecb7761d261f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/egg.fbx using Guid(084398d3f40187c479efecb7761d261f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7076c20bb03c58af7385263836ca9a9f') in 0.045204 seconds 
+  Import took 0.047647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Meat.fbx
+  artifactKey: Guid(7da3ba93a27b2ff44a529f098a09ed75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Meat.fbx using Guid(7da3ba93a27b2ff44a529f098a09ed75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce8cef24e3a9612620bfa8b6fb5ec2b') in 0.045832 seconds 
+  Import took 0.048192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.294466 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Lemons.fbx
+  artifactKey: Guid(2609e04b9a424e34b843c616fa9b0b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Lemons.fbx using Guid(2609e04b9a424e34b843c616fa9b0b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9929c2df935faca2362af953ccab9811') in 0.052198 seconds 
+  Import took 0.055186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Food Pack Mixed/Meshes/garlic.fbx
+  artifactKey: Guid(bb566780844e6474d83caab1d7f4b4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/garlic.fbx using Guid(bb566780844e6474d83caab1d7f4b4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de757387028f07461850bbe7ccad05ef') in 0.045309 seconds 
+  Import took 0.047891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Flour.fbx
+  artifactKey: Guid(8e0b0ecfa1aea52488c950a72f443bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Flour.fbx using Guid(8e0b0ecfa1aea52488c950a72f443bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8d64af520160656f8ca79d266744163') in 0.037691 seconds 
+  Import took 0.040190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Food Pack Mixed/Meshes/GarlicCloves.fbx
+  artifactKey: Guid(10eb3d01c5a83f7488d8ec4e2f9cdd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/GarlicCloves.fbx using Guid(10eb3d01c5a83f7488d8ec4e2f9cdd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0698f2f357f637483c14e881089f46') in 0.074421 seconds 
+  Import took 0.076889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Food Pack Mixed/Meshes/Capsicums.fbx
+  artifactKey: Guid(fcf8f31ef53e31d4d81bc6cd15064de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/Capsicums.fbx using Guid(fcf8f31ef53e31d4d81bc6cd15064de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05620525226841b9adade4afb74a12cf') in 0.069949 seconds 
+  Import took 0.072436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Food Pack Mixed/Meshes/MincedBeef.fbx
+  artifactKey: Guid(b5c58d16a3531204c9acfd8f88fe4f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/MincedBeef.fbx using Guid(b5c58d16a3531204c9acfd8f88fe4f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c5d7e7eff021e945a71afabb3657c54') in 0.045543 seconds 
+  Import took 0.048091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Food Pack Mixed/Meshes/JuicePack.fbx
+  artifactKey: Guid(049d662fb1301c74e99bffe685bc6b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/JuicePack.fbx using Guid(049d662fb1301c74e99bffe685bc6b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59bda172a2981910ac6d2857feb1e035') in 0.052346 seconds 
+  Import took 0.055281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Food Pack Mixed/Materials/Onion.mat
+  artifactKey: Guid(ec30bb5fb00caa84aa1b717f944875a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Onion.mat using Guid(ec30bb5fb00caa84aa1b717f944875a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '177c416266bbdb85ee88b8668325d12e') in 0.012255 seconds 
+  Import took 0.014885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Food Pack Mixed/Materials/OliveOilBottle.mat
+  artifactKey: Guid(b0d88ccfcc66fc146b1e58a520f1b6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/OliveOilBottle.mat using Guid(b0d88ccfcc66fc146b1e58a520f1b6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f214000bd61ec548f9b32ba80838998') in 0.007464 seconds 
+  Import took 0.009999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Food Pack Mixed/Materials/OliveOil.mat
+  artifactKey: Guid(bf306ddc078dbc440ba457900b51fcf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/OliveOil.mat using Guid(bf306ddc078dbc440ba457900b51fcf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edee488178e144cbf8f2598cf8088f3f') in 0.006549 seconds 
+  Import took 0.008837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Food Pack Mixed/Materials/OreganoPowder.mat
+  artifactKey: Guid(6cf5198f177233c4c8b0b0d36118ae19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/OreganoPowder.mat using Guid(6cf5198f177233c4c8b0b0d36118ae19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55d51b787f8a9d02ed580fbe9cf9e524') in 0.007684 seconds 
+  Import took 0.010125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Food Pack Mixed/Materials/OliveOilLabel.mat
+  artifactKey: Guid(6d607dd79b6133240b50b147ebb9543a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/OliveOilLabel.mat using Guid(6d607dd79b6133240b50b147ebb9543a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6f654020fb02726da0ace9a6adc819') in 0.007853 seconds 
+  Import took 0.010439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.123347 seconds.
+  path: Assets/Runemark Studio/Origami Pack/Materials/Origam_blue.mat
+  artifactKey: Guid(36ef8bee3b1ec67449ff596ce8d00707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Origami Pack/Materials/Origam_blue.mat using Guid(36ef8bee3b1ec67449ff596ce8d00707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16df4af98be3398a67585b13f20be210') in 0.008256 seconds 
+  Import took 0.011171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Runemark Studio/Origami Pack/Materials/Origam_white.mat
+  artifactKey: Guid(8626746252f01ec4f8c8ae185fa2b2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Origami Pack/Materials/Origam_white.mat using Guid(8626746252f01ec4f8c8ae185fa2b2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ad89dfdea3ad103f1b6b3987e409be') in 0.006797 seconds 
+  Import took 0.009388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Runemark Studio/Origami Pack/Materials/Origam_red.mat
+  artifactKey: Guid(af53e3a7405b3a141a93bf007fb281dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Origami Pack/Materials/Origam_red.mat using Guid(af53e3a7405b3a141a93bf007fb281dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81e3db43413ae67f3f19a23490f51ec0') in 0.006643 seconds 
+  Import took 0.009214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Runemark Studio/Origami Pack/Materials/Origam_pink.mat
+  artifactKey: Guid(ddb050cc89b1a6a4789e71df813b6f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Origami Pack/Materials/Origam_pink.mat using Guid(ddb050cc89b1a6a4789e71df813b6f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40c1ffaed56a7e4a490925d31972a9e1') in 0.007166 seconds 
+  Import took 0.009921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Runemark Studio/Origami Pack/Materials/Origam_orange.mat
+  artifactKey: Guid(fb881332404674f4fae9c888043924e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Origami Pack/Materials/Origam_orange.mat using Guid(fb881332404674f4fae9c888043924e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd93da94386c7343d0c23d3437cc0952a') in 0.007350 seconds 
+  Import took 0.010008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Runemark Studio/Origami Pack/Materials/Origam_gray.mat
+  artifactKey: Guid(507ec159dbf1634489af3c88c554dc4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Origami Pack/Materials/Origam_gray.mat using Guid(507ec159dbf1634489af3c88c554dc4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e51206ef7b918cba8b7ab45471210b') in 0.007332 seconds 
+  Import took 0.009957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Runemark Studio/Origami Pack/Materials/Origam_blue.mat
+  artifactKey: Guid(36ef8bee3b1ec67449ff596ce8d00707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Origami Pack/Materials/Origam_blue.mat using Guid(36ef8bee3b1ec67449ff596ce8d00707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16df4af98be3398a67585b13f20be210') in 0.006487 seconds 
+  Import took 0.009299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Runemark Studio/Origami Pack/Materials/Origam_brown.mat
+  artifactKey: Guid(397ff9c94add56c4eac4cdddc65d52fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Origami Pack/Materials/Origam_brown.mat using Guid(397ff9c94add56c4eac4cdddc65d52fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91672e9eebb9d3f98f8663096009ed4') in 0.008408 seconds 
+  Import took 0.010908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.466125 seconds.
+  path: Assets/Runemark Studio/Origami Pack/Materials/Origami.mat
+  artifactKey: Guid(6c0e6bece594aa045bb7d631e1e12743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Origami Pack/Materials/Origami.mat using Guid(6c0e6bece594aa045bb7d631e1e12743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6119ae55ca3b245e1863643b474a4f38') in 0.007240 seconds 
+  Import took 0.010277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Food Pack Mixed/Materials/Potato.mat
+  artifactKey: Guid(ac9369c926d0fcf40a38a39859d6d192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Potato.mat using Guid(ac9369c926d0fcf40a38a39859d6d192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de17af21d08711d807930d5e9e1a190f') in 0.009601 seconds 
+  Import took 0.012193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Runemark Studio/Origami Pack/Materials/Origami.mat
+  artifactKey: Guid(6c0e6bece594aa045bb7d631e1e12743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Origami Pack/Materials/Origami.mat using Guid(6c0e6bece594aa045bb7d631e1e12743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6119ae55ca3b245e1863643b474a4f38') in 0.006544 seconds 
+  Import took 0.009102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/VoxelAnimals/Assets/Materials/Palette.mat
+  artifactKey: Guid(c7e294e05bde65747aa9d03b71fd2096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VoxelAnimals/Assets/Materials/Palette.mat using Guid(c7e294e05bde65747aa9d03b71fd2096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90fbc16946e01e6bc8328b3ba6778f2') in 0.008756 seconds 
+  Import took 0.011515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Food Pack Mixed/Scenes/PlaneMat.mat
+  artifactKey: Guid(c016895e71db5f343a16081b9a4eb132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Scenes/PlaneMat.mat using Guid(c016895e71db5f343a16081b9a4eb132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f825c2e3f6fc265788f6225b65a09d3d') in 0.051545 seconds 
+  Import took 0.054571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Food Pack Mixed/Materials/PeanutShell.mat
+  artifactKey: Guid(f20a818cade860145a94630ae121d85a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/PeanutShell.mat using Guid(f20a818cade860145a94630ae121d85a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd6c648078aadd7f33be747bc908a55') in 0.008985 seconds 
+  Import took 0.011604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.209505 seconds.
+  path: Assets/Food Pack Mixed/Materials/SodaCanBody.mat
+  artifactKey: Guid(89b0c4c791ede58448ec68ccd9b6589f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/SodaCanBody.mat using Guid(89b0c4c791ede58448ec68ccd9b6589f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b5dd1def04a0596df9029fbac1adb4') in 0.008576 seconds 
+  Import took 0.011414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Food Pack Mixed/Materials/SodaCanCap.mat
+  artifactKey: Guid(a300f3ab3ce4162498bfb481ad53c326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/SodaCanCap.mat using Guid(a300f3ab3ce4162498bfb481ad53c326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5c38259d5b66ba27d08fd947425fb02') in 0.008259 seconds 
+  Import took 0.010616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Food Pack Mixed/Materials/SodaCanBody.mat
+  artifactKey: Guid(89b0c4c791ede58448ec68ccd9b6589f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/SodaCanBody.mat using Guid(89b0c4c791ede58448ec68ccd9b6589f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b5dd1def04a0596df9029fbac1adb4') in 0.008472 seconds 
+  Import took 0.010989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Food Pack Mixed/Materials/SodaCanCap.mat
+  artifactKey: Guid(a300f3ab3ce4162498bfb481ad53c326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/SodaCanCap.mat using Guid(a300f3ab3ce4162498bfb481ad53c326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5c38259d5b66ba27d08fd947425fb02') in 0.007672 seconds 
+  Import took 0.010367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Food Pack Mixed/Materials/TomatoBody.mat
+  artifactKey: Guid(e32b099f2dc54664e80e6361f9e5088a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/TomatoBody.mat using Guid(e32b099f2dc54664e80e6361f9e5088a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c534b95d03bf016504dd664e36acf9') in 0.008005 seconds 
+  Import took 0.010537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.588327 seconds.
+  path: Assets/Food Pack Mixed/Materials/TomatoCrossection.mat
+  artifactKey: Guid(4a9303184a1a6e44c85a49d769b6260d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/TomatoCrossection.mat using Guid(4a9303184a1a6e44c85a49d769b6260d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3bbc5702c5b3c1d201a085861dfe1e') in 0.009652 seconds 
+  Import took 0.012652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Food Pack Mixed/Materials/TomatoHead.mat
+  artifactKey: Guid(130f84e4b594b3241bc431867a137c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/TomatoHead.mat using Guid(130f84e4b594b3241bc431867a137c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ab94243b3a762048cae46ec8567059') in 0.008548 seconds 
+  Import took 0.011177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Food Pack Mixed/Materials/TomatoCrossection.mat
+  artifactKey: Guid(4a9303184a1a6e44c85a49d769b6260d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/TomatoCrossection.mat using Guid(4a9303184a1a6e44c85a49d769b6260d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3bbc5702c5b3c1d201a085861dfe1e') in 0.007276 seconds 
+  Import took 0.009794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Food Pack Mixed/Materials/TomatoSoup.mat
+  artifactKey: Guid(6d813f7d7a17e744296ccdfd3feeb296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/TomatoSoup.mat using Guid(6d813f7d7a17e744296ccdfd3feeb296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34050fab90fb178e2ba5ce0f68e9abca') in 0.010022 seconds 
+  Import took 0.012744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Food Pack Mixed/Materials/TomatoHead.mat
+  artifactKey: Guid(130f84e4b594b3241bc431867a137c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/TomatoHead.mat using Guid(130f84e4b594b3241bc431867a137c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ab94243b3a762048cae46ec8567059') in 0.010206 seconds 
+  Import took 0.012830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Food Pack Mixed/Materials/TomatoPuree.mat
+  artifactKey: Guid(cf49d14082c3f334bb13a8060caf54a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/TomatoPuree.mat using Guid(cf49d14082c3f334bb13a8060caf54a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2888540c69a26a0e19eb716f892f850d') in 0.009375 seconds 
+  Import took 0.012108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Food Pack Mixed/Materials/VanillaExtract.mat
+  artifactKey: Guid(223e8b4d7d828f04e952e19eea11c0e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/VanillaExtract.mat using Guid(223e8b4d7d828f04e952e19eea11c0e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd329c36f60d800a5ee6332b9c01f8539') in 0.006855 seconds 
+  Import took 0.009409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.699944 seconds.
+  path: Assets/Food Pack Mixed/Materials/VanillaExtractBottle.mat
+  artifactKey: Guid(24cbd9d54c71a46478f455e4a908375d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/VanillaExtractBottle.mat using Guid(24cbd9d54c71a46478f455e4a908375d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060f848ba33943c4d9d2312ae701c1f4') in 0.006866 seconds 
+  Import took 0.009916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Food Pack Mixed/Materials/Yogurt.mat
+  artifactKey: Guid(03ba5f4109a163744bf202e1abbac726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Yogurt.mat using Guid(03ba5f4109a163744bf202e1abbac726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68609897b0457fd287062d080164d0fc') in 0.007695 seconds 
+  Import took 0.010199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Food Pack Mixed/Materials/VanillaExtractLabel.mat
+  artifactKey: Guid(d3f13560d209e684aa14d841e3532a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/VanillaExtractLabel.mat using Guid(d3f13560d209e684aa14d841e3532a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cd212ddc616e019947caa763286fd04') in 0.010713 seconds 
+  Import took 0.013119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Food Pack Mixed/Materials/WhitePlate.mat
+  artifactKey: Guid(e5d1f02f9035efb44a3fcf5e43e16833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/WhitePlate.mat using Guid(e5d1f02f9035efb44a3fcf5e43e16833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f6fc45bda9b362bb212e280754b4d1b') in 0.006848 seconds 
+  Import took 0.009464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Food Pack Mixed/Materials/VanillaExtractLabel.mat
+  artifactKey: Guid(d3f13560d209e684aa14d841e3532a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/VanillaExtractLabel.mat using Guid(d3f13560d209e684aa14d841e3532a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cd212ddc616e019947caa763286fd04') in 0.007456 seconds 
+  Import took 0.010231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Food Pack Mixed/Materials/VanillaExtractBottle.mat
+  artifactKey: Guid(24cbd9d54c71a46478f455e4a908375d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/VanillaExtractBottle.mat using Guid(24cbd9d54c71a46478f455e4a908375d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060f848ba33943c4d9d2312ae701c1f4') in 0.009354 seconds 
+  Import took 0.011876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.667584 seconds.
+  path: Assets/Food Pack Mixed/Materials/GelatinPowder.mat
+  artifactKey: Guid(3a647d8f863a501469153076ebf73d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/GelatinPowder.mat using Guid(3a647d8f863a501469153076ebf73d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6768fdacb727edad5a3f22d8623b5571') in 0.008848 seconds 
+  Import took 0.011811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Food Pack Mixed/Materials/Glass.mat
+  artifactKey: Guid(f1ae88957f1ed1043b315829a3ab6274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Glass.mat using Guid(f1ae88957f1ed1043b315829a3ab6274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9d39d0eb51e735bd7e31c5745c9e72') in 0.307412 seconds 
+  Import took 0.309776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Food Pack Mixed/Materials/BrownSugar.mat
+  artifactKey: Guid(03f50ce276edf2841a3d3ea4791d0978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/BrownSugar.mat using Guid(03f50ce276edf2841a3d3ea4791d0978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61bb9066c2d53e223e1be5da7782df59') in 0.008491 seconds 
+  Import took 0.011009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Food Pack Mixed/Materials/CapsicumOrange.mat
+  artifactKey: Guid(1fd0a85d084450343bdcb18975bb5766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/CapsicumOrange.mat using Guid(1fd0a85d084450343bdcb18975bb5766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f363e0261870428fedd094c503afca') in 0.008184 seconds 
+  Import took 0.010829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Food Pack Mixed/Materials/CoffeeBean.mat
+  artifactKey: Guid(f4c5971547c23d04db54fba6921d40c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/CoffeeBean.mat using Guid(f4c5971547c23d04db54fba6921d40c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ef01a3ddc80d5ec4d056749f74a92b') in 0.011063 seconds 
+  Import took 0.013535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Food Pack Mixed/Materials/Butter.mat
+  artifactKey: Guid(11ce49117f2fe0642b2afe5a95b2291e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Butter.mat using Guid(11ce49117f2fe0642b2afe5a95b2291e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8335100a56db4a82d1dbbb4c631fa1e') in 0.007340 seconds 
+  Import took 0.009678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Food Pack Mixed/Materials/CapsicumRed.mat
+  artifactKey: Guid(68fda1cb16b9f6d40b4e7a16d667240b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/CapsicumRed.mat using Guid(68fda1cb16b9f6d40b4e7a16d667240b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '292ef0c5b7055280ca282ef0147f56e8') in 0.007797 seconds 
+  Import took 0.010107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Food Pack Mixed/Materials/DriedYeast.mat
+  artifactKey: Guid(e205381bb51232b40aa432101d478034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/DriedYeast.mat using Guid(e205381bb51232b40aa432101d478034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30153017a9cf8eadf380cf2d6686199') in 0.008061 seconds 
+  Import took 0.010497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Food Pack Mixed/Materials/Cheese.mat
+  artifactKey: Guid(a67d99429c0b7a14695eb831b8ba71d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Cheese.mat using Guid(a67d99429c0b7a14695eb831b8ba71d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae93732c3e70a1e8a3aba2199b0c77ed') in 0.008363 seconds 
+  Import took 0.010919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Food Pack Mixed/Materials/Bowl.mat
+  artifactKey: Guid(3f70791cdd94920439641ad670cdee9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Bowl.mat using Guid(3f70791cdd94920439641ad670cdee9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa657aefdaefce305222f1abd19a7529') in 0.006645 seconds 
+  Import took 0.009258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Food Pack Mixed/Materials/Glass 2.mat
+  artifactKey: Guid(8cd6ebe62d0d3134fb6076ed9aeab6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Glass 2.mat using Guid(8cd6ebe62d0d3134fb6076ed9aeab6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '682dfd47f2e8d849ccf5d4abc1616c51') in 0.006812 seconds 
+  Import took 0.009038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Food Pack Mixed/Materials/Almond.mat
+  artifactKey: Guid(c26f8ad4c83ea104d9b5777aba3263ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Almond.mat using Guid(c26f8ad4c83ea104d9b5777aba3263ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd63dd4e5da41279c6ac781de67e796a1') in 0.011258 seconds 
+  Import took 0.013918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Food Pack Mixed/Materials/BlueBerries.mat
+  artifactKey: Guid(7c9e29d609f43264cbd58ffbabd0d3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/BlueBerries.mat using Guid(7c9e29d609f43264cbd58ffbabd0d3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2783db9a5a1ca3c62bece4b78953177') in 0.007514 seconds 
+  Import took 0.010053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Food Pack Mixed/Materials/EnergyDrink.mat
+  artifactKey: Guid(bee68d7a9fb9fcc48af3cad4407f05a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/EnergyDrink.mat using Guid(bee68d7a9fb9fcc48af3cad4407f05a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00245440714bf3b1e6b4162f5354c833') in 0.012052 seconds 
+  Import took 0.014482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Food Pack Mixed/Materials/GarlicPowder.mat
+  artifactKey: Guid(f33738a09aff8dd48b8d863da048c06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/GarlicPowder.mat using Guid(f33738a09aff8dd48b8d863da048c06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f30fb228f4d00fe6d7ed8ddc0d21cc9') in 0.008346 seconds 
+  Import took 0.010644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Food Pack Mixed/Materials/ChiliPowder.mat
+  artifactKey: Guid(7eeb62ce16d34c54cb6d019c1fe56769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/ChiliPowder.mat using Guid(7eeb62ce16d34c54cb6d019c1fe56769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a977b549bcd286fae7816a8b3746e025') in 0.007356 seconds 
+  Import took 0.009656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Food Pack Mixed/Materials/GarlicClove.mat
+  artifactKey: Guid(35b6e266f3d081940809b7f9a77f63e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/GarlicClove.mat using Guid(35b6e266f3d081940809b7f9a77f63e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef76c00b7fd77230f82e3a75d5366cdd') in 0.008590 seconds 
+  Import took 0.011173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Food Pack Mixed/Materials/Garlic.mat
+  artifactKey: Guid(f507a7fabe84c864394d598b70e3ccc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Garlic.mat using Guid(f507a7fabe84c864394d598b70e3ccc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7739768bd74b70535b15d1a89029a276') in 0.013064 seconds 
+  Import took 0.015446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Food Pack Mixed/Materials/ChickenSkin.mat
+  artifactKey: Guid(2e8667f67c7bba94b971abc96796cd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/ChickenSkin.mat using Guid(2e8667f67c7bba94b971abc96796cd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b24cbd18b604e89fcae9c668a2a390e5') in 0.007337 seconds 
+  Import took 0.010075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Food Pack Mixed/Materials/Egg.mat
+  artifactKey: Guid(94bf9b71af013f14ba935e6f0a0d3293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Egg.mat using Guid(94bf9b71af013f14ba935e6f0a0d3293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20259947b3cd8af724a161393a5ec965') in 0.006853 seconds 
+  Import took 0.009212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/VoxelAnimals/Assets/Materials/Floor.mat
+  artifactKey: Guid(0cda7319e1a92ce468dcd0e90b39104d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VoxelAnimals/Assets/Materials/Floor.mat using Guid(0cda7319e1a92ce468dcd0e90b39104d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1e410d186bc6cc4c57cf8ed37f6aaf') in 0.007913 seconds 
+  Import took 0.010229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Food Pack Mixed/Materials/BlackPepper.mat
+  artifactKey: Guid(a29399a5bd48b7b49932da5a0f38da2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/BlackPepper.mat using Guid(a29399a5bd48b7b49932da5a0f38da2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d1b00b006d6d9896f48328be3d90ea') in 0.007912 seconds 
+  Import took 0.010463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Food Pack Mixed/Materials/CreamCheese.mat
+  artifactKey: Guid(0c2619b37bef10a44a959c0297857ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/CreamCheese.mat using Guid(0c2619b37bef10a44a959c0297857ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '838ea5dbdfdd505424b0b7ab9b8cb219') in 0.007425 seconds 
+  Import took 0.009878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Food Pack Mixed/Materials/CapsicumGreen.mat
+  artifactKey: Guid(836d710b2a0fc104882cfec4b1a7ec63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/CapsicumGreen.mat using Guid(836d710b2a0fc104882cfec4b1a7ec63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd5fbb267f1d139f93d0a2bd18c4c370') in 0.007596 seconds 
+  Import took 0.009849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Food Pack Mixed/Materials/BeefSlice.mat
+  artifactKey: Guid(1feb4e4a9952ad44ba959a9b82786b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/BeefSlice.mat using Guid(1feb4e4a9952ad44ba959a9b82786b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aedd6b451ff698de91a32b83f7cfd249') in 0.009476 seconds 
+  Import took 0.011815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Food Pack Mixed/Materials/Flour.mat
+  artifactKey: Guid(15c32fdc8d1bc0d40b6fca23970be873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Flour.mat using Guid(15c32fdc8d1bc0d40b6fca23970be873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3faf73213ce7235977b6efbd2fa6bbe') in 0.008538 seconds 
+  Import took 0.011170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Food Pack Mixed/Materials/CocoaPowder.mat
+  artifactKey: Guid(8386e6a1c83781849a84a57cd0b97bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/CocoaPowder.mat using Guid(8386e6a1c83781849a84a57cd0b97bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a9f31eb704c956a69bf2eaf4f801a1') in 0.007625 seconds 
+  Import took 0.010393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Food Pack Mixed/Materials/Chocolate.mat
+  artifactKey: Guid(3f078d5c9fc97be4d818430bd713e51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Chocolate.mat using Guid(3f078d5c9fc97be4d818430bd713e51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6df29b4770953ad992bbdfee3453d4a') in 0.006458 seconds 
+  Import took 0.008988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Food Pack Mixed/Materials/BeerBottle.mat
+  artifactKey: Guid(72cb50f89354da94c8aaa1dc70cbccbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/BeerBottle.mat using Guid(72cb50f89354da94c8aaa1dc70cbccbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9704c3c4c4faab87ed3f85306fa9927a') in 0.007368 seconds 
+  Import took 0.009653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Food Pack Mixed/Materials/Banana.mat
+  artifactKey: Guid(44b3dab97ba9b9b42b0463c3eaaf929c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Banana.mat using Guid(44b3dab97ba9b9b42b0463c3eaaf929c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6ad23739f2f4c8fbfbdc24dbe1f50b') in 0.006748 seconds 
+  Import took 0.009179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Food Pack Mixed/Materials/CanCap.mat
+  artifactKey: Guid(17aa30d6af8e8664a82c0fbc89678bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/CanCap.mat using Guid(17aa30d6af8e8664a82c0fbc89678bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5919819792a76489c577040bed4f0767') in 0.006274 seconds 
+  Import took 0.008722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Food Pack Mixed/Materials/Chips.mat
+  artifactKey: Guid(511d8d597c56b9d4fbd8ef1770aa5bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Chips.mat using Guid(511d8d597c56b9d4fbd8ef1770aa5bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bab08e00803b30949b6da47ffaf7a20') in 0.008727 seconds 
+  Import took 0.011191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Food Pack Mixed/Materials/Carrot.mat
+  artifactKey: Guid(550b6d87831abfb47a647b7092c47571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Carrot.mat using Guid(550b6d87831abfb47a647b7092c47571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3beea94612ba3bc11d4be182d45204f9') in 0.009108 seconds 
+  Import took 0.011762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Food Pack Mixed/Materials/Cap.mat
+  artifactKey: Guid(d40550c3e9f0da84b8ffe39802b052cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Cap.mat using Guid(d40550c3e9f0da84b8ffe39802b052cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db25fcbeb16d4ebd0586912887564dc2') in 0.008308 seconds 
+  Import took 0.010770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Food Pack Mixed/Materials/CerealBox.mat
+  artifactKey: Guid(b5d44a7f108eecd419b061989ac6b068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/CerealBox.mat using Guid(b5d44a7f108eecd419b061989ac6b068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90fbb62f0fe0573bba0dc15794d79ca5') in 0.010587 seconds 
+  Import took 0.012914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Food Pack Mixed/Meshes/ButterPlate.fbx
+  artifactKey: Guid(31879f2c7dc8bc9478db6f00182b3c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Meshes/ButterPlate.fbx using Guid(31879f2c7dc8bc9478db6f00182b3c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b8641575559a70f3765790f636e43c0') in 0.020816 seconds 
+  Import took 0.023146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Food Pack Mixed/Materials/Cherries.mat
+  artifactKey: Guid(00780f48aaef5b54ca9ac35fe5804409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack Mixed/Materials/Cherries.mat using Guid(00780f48aaef5b54ca9ac35fe5804409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c14cc8faadae3e4bd236df52f68310') in 0.008376 seconds 
+  Import took 0.010627 seconds .
+
