@@ -3845,3 +3845,219 @@ Received Import Request.
 Start importing Assets/StarterAssets/ThirdPersonController/Character/Textures/Armature_Body_MetallicSmoothness.tif using Guid(e73adacd5e8f6fc45a491dbd62e71ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd46265fd18582dea75279c9e8ff6c503') in 0.007762 seconds 
   Import took 0.010976 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.022861 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.922 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2923ms)
+		BeginReloadAssembly (287ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (39ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (106ms)
+		EndReloadAssembly (2533ms)
+			LoadAssemblies (221ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (353ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (1593ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (115ms)
+				ProcessInitializeOnLoadAttributes (1442ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (39ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 245.1 MB.
+System memory in use after: 245.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2775.
+Total: 3.205792 ms (FindLiveObjects: 0.266958 ms CreateObjectMapping: 0.053000 ms MarkObjects: 2.783750 ms  DeleteObjects: 0.101125 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004339 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.086 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3087ms)
+		BeginReloadAssembly (325ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (45ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (113ms)
+		EndReloadAssembly (2638ms)
+			LoadAssemblies (266ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (388ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (1604ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (117ms)
+				ProcessInitializeOnLoadAttributes (1448ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (36ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 245.4 MB.
+System memory in use after: 245.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2777.
+Total: 2.499958 ms (FindLiveObjects: 0.215042 ms CreateObjectMapping: 0.057167 ms MarkObjects: 2.122750 ms  DeleteObjects: 0.104250 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3417.098825 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Hamburger/Bugrer.fbx
+  artifactKey: Guid(efb589acc9f43456684bc08a7058bd4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Hamburger/Bugrer.fbx using Guid(efb589acc9f43456684bc08a7058bd4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26a6ccb136435c36eb443bdae36a3d14') in 0.269089 seconds 
+  Import took 0.279092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Cake/Cake.fbx
+  artifactKey: Guid(85f34f294ae9548e5b710ab26a3f6b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Cake/Cake.fbx using Guid(85f34f294ae9548e5b710ab26a3f6b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1435df2cf22f1a8da48264e8973af56d') in 0.020612 seconds 
+  Import took 0.023418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/VoxelAnimals/Assets/Models/Chicken.fbx
+  artifactKey: Guid(a781aa61e9361024cac36d44dda87c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VoxelAnimals/Assets/Models/Chicken.fbx using Guid(a781aa61e9361024cac36d44dda87c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62770ed72e36293ad987c358431dced3') in 0.047687 seconds 
+  Import took 0.050327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/VoxelAnimals/Assets/Models/Cat.fbx
+  artifactKey: Guid(99c74493bf8e38f4898ddecbf36b4291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VoxelAnimals/Assets/Models/Cat.fbx using Guid(99c74493bf8e38f4898ddecbf36b4291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faaaa52f16583ba2a8cce3e44961a058') in 0.068303 seconds 
+  Import took 0.070767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Donut/Donut.fbx
+  artifactKey: Guid(a4aa40157fa6f495784c7da6e62f0873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Donut/Donut.fbx using Guid(a4aa40157fa6f495784c7da6e62f0873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86906b5d771326c3d4c72a593e837a29') in 0.016549 seconds 
+  Import took 0.019249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.510821 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Drink/Model_Drink.fbx
+  artifactKey: Guid(d4dc22e26f1524dc9afdab0fff7f8401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Drink/Model_Drink.fbx using Guid(d4dc22e26f1524dc9afdab0fff7f8401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a6a16891ef156d360ba15616ff2cc7b') in 0.015372 seconds 
+  Import took 0.018397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/French Fries/Model_FrenchFries.fbx
+  artifactKey: Guid(e5aed57840c364c70b804dda1e9e6adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/French Fries/Model_FrenchFries.fbx using Guid(e5aed57840c364c70b804dda1e9e6adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adeb749629af16bbd20ca36746682545') in 0.032968 seconds 
+  Import took 0.035502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Drink/Model_Drink.fbx
+  artifactKey: Guid(d4dc22e26f1524dc9afdab0fff7f8401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Drink/Model_Drink.fbx using Guid(d4dc22e26f1524dc9afdab0fff7f8401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a6a16891ef156d360ba15616ff2cc7b') in 0.019294 seconds 
+  Import took 0.022035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Hot Dog/Model_HotDog.fbx
+  artifactKey: Guid(f1f129166a2e945daada21768eeedcfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Hot Dog/Model_HotDog.fbx using Guid(f1f129166a2e945daada21768eeedcfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feec8fca043308f3919e909b8a8d6af5') in 0.017610 seconds 
+  Import took 0.020163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Egg and sausage with frying pan/Model_EggSausageFryingPan.fbx
+  artifactKey: Guid(c2facdeb13b614eba867b671c5a403bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Egg and sausage with frying pan/Model_EggSausageFryingPan.fbx using Guid(c2facdeb13b614eba867b671c5a403bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56aafc7e57476a049785cfe4247e50f3') in 0.056540 seconds 
+  Import took 0.058986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.245991 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Meat 1/Model_Meat1.fbx
+  artifactKey: Guid(d966e655aa70642da9bce08cc1bfe0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Meat 1/Model_Meat1.fbx using Guid(d966e655aa70642da9bce08cc1bfe0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13946bbe26fee2264d6474f9dcd5fd16') in 0.014922 seconds 
+  Import took 0.017870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Runemark Studio/Origami Pack/Meshes/Origami_All.obj
+  artifactKey: Guid(799f653f08c90c94c8b0126557609836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Runemark Studio/Origami Pack/Meshes/Origami_All.obj using Guid(799f653f08c90c94c8b0126557609836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e74d223a9d827fa968bcffb6ddbdc0') in 1.662977 seconds 
+  Import took 1.665472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Meat 2/Model_Meat2.fbx
+  artifactKey: Guid(c2192400c2bd74082a4a4102b6944b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PwhSoft/Low Poly Fast Food/Assets/Meshes/Meat 2/Model_Meat2.fbx using Guid(c2192400c2bd74082a4a4102b6944b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '081c6491d520759428cf1f411b4701d2') in 0.016355 seconds 
+  Import took 0.018956 seconds .
+
